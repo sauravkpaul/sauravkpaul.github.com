@@ -22,7 +22,7 @@ Output: [[],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]]
 
 ##### C++
 
-```C++
+```c++
 class Solution {
 private:
     void backtrack(vector<vector<int>>& list , vector<int>& tempList, vector<int>& nums, int start) {
@@ -78,7 +78,7 @@ Output: [[],[1],[1,2],[1,2,2],[2],[2,2]]
 
 ##### C++
 
-```C++
+```c++
 class Solution {
 private:
     void
@@ -135,7 +135,7 @@ Output: [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
 
 ##### C++
 
-```C++
+```c++
 class Solution {
 public:
     void backtrack(vector<int>& n, vector<int> &out, vector<vector<int>> &res) {
@@ -190,7 +190,7 @@ Given a collection of numbers, nums, that might contain duplicates, return all p
 
 #### C++
 
-```C++
+```c++
 class Solution {
 public:
     void backtrack(vector<int>& n, vector<int> &out,
