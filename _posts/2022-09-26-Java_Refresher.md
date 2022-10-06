@@ -8,7 +8,7 @@ categories: [Data Structures, Java]
 
 The below Demo code include all basic DS and Collections framework in Java. Can take a glance to refresh the Java Syntax for DS problems. 
 
-```Java
+```
 import java.util.*;
 
 class Main {
